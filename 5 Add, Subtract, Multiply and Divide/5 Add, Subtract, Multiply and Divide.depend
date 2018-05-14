@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1467473801 source:c:\users\saumay\desktop\programs in c\5 add, subtract, multiply and divide\main.c
+	<stdio.h>
+	<conio.h>
+

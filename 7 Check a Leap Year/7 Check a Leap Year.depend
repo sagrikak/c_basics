@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1467540214 source:c:\users\saumay\desktop\programs in c\7 check a leap year\main.c
+	<stdio.h>
+	<stdlib.h>
+
