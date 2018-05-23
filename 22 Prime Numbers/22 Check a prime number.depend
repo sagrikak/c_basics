@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1468498738 source:c:\users\saumay\desktop\programs in c\22 check a prime number\main.c
+	<stdio.h>
+	<conio.h>
+
+1468500359 source:c:\users\saumay\desktop\programs in c\22 check a prime number\to print prime numbers.c
+	<stdio.h>
+	<conio.h>
+
