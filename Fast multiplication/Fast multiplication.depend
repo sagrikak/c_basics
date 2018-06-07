@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475379818 source:c:\users\saumay\desktop\programs in c\fast multiplication\main.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+
