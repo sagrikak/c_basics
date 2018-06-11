@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1480740086 source:c:\users\saumay\desktop\programs in c\stack using linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1480740828 source:c:\users\saumay\desktop\programs in c\stack using linked list\head as top.c
+	<stdio.h>
+	<stdlib.h>
+
